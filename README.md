@@ -74,10 +74,3 @@ The application will be available at `http://localhost:3000`.
 ## Conclusion
 
 This project demonstrates the ability to build a functional React application with authentication and authorization, adhering to clean coding principles and good UX practices.
-
-## Contact
-
-For any questions or suggestions, feel free to reach out:
-
-- **Email**: your-email@example.com
-- **GitHub**: [your-username](https://github.com/your-username)
